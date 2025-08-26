@@ -40,13 +40,13 @@ Users do not talk to each other directly. Instead, they send messages through th
 ##  Output
 
 ```
-Alice sends: Hello everyone!
-Bob receives: Hello everyone!
-Charlie receives: Hello everyone!
+Harish sends: Hello everyone!
+Arjun receives: Hello everyone!
+Gokul receives: Hello everyone!
 
-Bob sends: Hi Alice!
-Alice receives: Hi Alice!
-Charlie receives: Hi Alice!
+Harish sends: Hi Gokul!
+Arjun receives: Hi Gokul!
+Gokul receives: Hi Gokul!
 ```
 
 ---
